@@ -7,3 +7,10 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# csv and zip files
+data/
+*.zip
+*.csv
+
+*.venv
