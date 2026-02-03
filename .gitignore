@@ -13,4 +13,6 @@ data/
 *.zip
 *.csv
 
+# python environment
 *.venv
+venv/ 
